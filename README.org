@@ -1,0 +1,10 @@
+* cl-rlimit
+
+Common lisp interface to unix rlimit -- ensure the performance of your program!
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/cl-rlimit.git   |
+| commit  | 784e83d  |
+| systems | cl-rlimit |
+|---------+-------------------------------------------|
+
